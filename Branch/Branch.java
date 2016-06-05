@@ -1,0 +1,21 @@
+import java.util.*;
+import java.io.*;
+
+/* Mighty Cohadar */
+public class Branch {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int a = scanner.nextInt();
+		int b = scanner.nextInt();
+		if (a > b) {
+			System.out.println("First");
+		} else if (a < b) {
+			System.out.println("Second");
+		} else {
+			System.out.println("Equal");
+		}
+	}
+	
+}
+

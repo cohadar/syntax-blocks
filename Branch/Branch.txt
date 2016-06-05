@@ -1,0 +1,10 @@
+Read two integers from stdin and determine which one is greater.
+
+Input:
+	two integers `a`, `b` each on a separate line.
+
+Output:
+	"First" if a > b
+	"Second" if a < b
+	"Equal" if a == b
+	
