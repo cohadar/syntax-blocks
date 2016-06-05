@@ -1,0 +1,7 @@
+Read two integers from stdin and print out their sum.
+
+Input:
+	two integers on a first line "a b", -1e9 <= a, b <= 1e9
+
+Output:
+	write sum of a and b.
