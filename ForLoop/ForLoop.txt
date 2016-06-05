@@ -1,0 +1,10 @@
+Read lots of integers from stdin (with random newlines between integers) and output their sum.
+
+Input: 
+	first line contains integer `n`, number of integers to sum
+	several next lines (unknown how many) contain `n` integers to sum.
+	1 <= n <= 10000
+	each integer to sum: -1e9 <= x <= 1e9
+
+Output:
+	sum of `n` integers.
