@@ -1,0 +1,11 @@
+## Match whole line
+
+Read lines from a file and print only those lines that fully match a valid amazon instance id "i-XXXXXXXX" 
+X - represents a hex number 
+
+Input:
+	lines of text some of which match amazon instance id
+
+Output:
+	lines of valid amazon instance id-s
+	
